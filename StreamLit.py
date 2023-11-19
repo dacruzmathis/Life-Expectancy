@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 28 22:32:56 2022
 
-@author: kevin
+@author: mathis
 """
 
 import streamlit as st 
