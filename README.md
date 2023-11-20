@@ -2,7 +2,7 @@
 
 The project consist to make a study using data available online and advance arguments about all the factors responsible of Life Expectancy.  
 Master 1 project made for the Data Science with Python cursus at Efrei Paris.  
-Made by Da Cruz Mathis, Sivananthan Sarankan and Sebastiao-Esteves Kevin.  
+Made with Sivananthan Sarankan and Sebastiao-Esteves Kevin.  
 Here some results obtained by the study of a dozen of datasets about Life Expectancy :  
 
 ## Study about USA
