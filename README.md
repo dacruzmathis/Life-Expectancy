@@ -1,6 +1,6 @@
 # Life-Expectancy
 
-The project consist to make a study using data available online and finding factors responsible of Life Expectancy.  
+Carry out a study on life expectancy and identify the factors responsible for it.  
 Master 1 project made for the Data Science with Python cursus at Efrei Paris.  
 Made with Sivananthan Sarankan and Sebastiao-Esteves Kevin.  
 Here some results obtained by the study of a dozen of datasets about Life Expectancy :  
